@@ -1,23 +1,6 @@
-<<<<<<< HEAD
 # Alice-Vs-the-Knights-of-the-Queen-of-Hearts
 https://devpost.com/software/alice-vs-the-knights-of-the-queen-of-hearts
-=======
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Game made for fun during HopperHack 2023
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
->>>>>>> 8708cf2 (Alice Vs the Knights of the Queen of Hearts Upload)
+Made by Nicholas Tan, Nusaybah Islam and Kyle R. Bautista
